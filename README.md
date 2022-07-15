@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 My name is Juan David Lara. I am a mathematician and computer science student at the National University of Colombia.
 
 - 🎓 BSc in Mathematics | BSc in Computer Science (soon)
+- ⚒️ Computer equipment maintenance technician
 - ✨ I am passionate about teaching and programming
 - 🌱 I’m currently learning deep learning
 </p>
