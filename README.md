@@ -15,27 +15,19 @@ Here are some ideas to get you started:
 -->
 
 <!-- About Section -->
-<details>
-  <summary><b>👤 About </b></summary>
-    <p>
-      
-<blockquote>
-
+<p>
 My name is Juan Lara. I am a mathematician and computer science student at the National University of Colombia.
 
 - 🎓 BSc in Mathematics | BSc in Computer Science (soon)
 - ✨ I am passionate about teaching and programming
 - 🌱 I’m currently learning deep learning
+</p>
 
-</blockquote>
-
-  </p>
-</details>
 
 <!-- Tech Stack -->  
 <details>
   <summary><b>💻 Tech Stack</b></summary>
-    <p>
+    <p align="center">
 
 | **Category** | **Technologies** |
 | - | - |
@@ -47,8 +39,6 @@ My name is Juan Lara. I am a mathematician and computer science student at the N
 **Miscellaneous** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
   </p>
 </details>
-
-
 
   
 </details>
