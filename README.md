@@ -1,4 +1,7 @@
 <h1 align="center"> Hey 😋 </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+code+pro&size=25&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=435&lines=I'm+Juan+Lara;I'm+a+mathematician;I'm+a+computer+science)](https://git.io/typing-svg)
+
 <!--
 **JuanLara18/JuanLara18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+code+pro&size=25&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=435&lines=I'm+Juan+Lara;I'm+a+mathematician;I'm+a+computer+science)](https://git.io/typing-svg)
+
 
 <!-- About Section -->
 
