@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=45&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=435&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=I'm+Juan+Lara;I'm+a+mathematician;I'm+a+computer+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=435&lines=I'm+a+mathematician;I'm+a+computer+science)](https://git.io/typing-svg)
 
 <!--
 
