@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <!-- About Section -->
 <p>
-My name is Juan David Lara. I am a mathematician and computer science student at the National University of Colombia.
+My name is Juan David Lara. I am a mathematician and computer science student at the Universidad Nacional de Colombia.
 
 - 🎓 BSc in Mathematics | BSc in Computer Science (soon)
-- ⚒️ Computer equipment maintenance technician
+- ⚒️ Computer Repair Technician
 - ✨ I am passionate about teaching and programming
 - 🌱 I’m currently learning deep learning
 </p>
@@ -44,7 +44,7 @@ My name is Juan David Lara. I am a mathematician and computer science student at
   
 <!-- Contact -->
 <details>
-  <summary><b>💬 Info contact</b></summary>
+  <summary><b>💬 Contact Info</b></summary>
 
   <p align="center">
 <a href="https://www.linkedin.com/in/juandavidlara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
