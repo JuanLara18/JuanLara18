@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- About Section -->
 <p>
-My name is Juan David Lara. I am a mathematician and computer science student at the Universidad Nacional de Colombia.
+My name is Juan David Lara. I am a mathematician and computer science student at Universidad Nacional de Colombia.
 
 - 🎓 BSc in Mathematics | BSc in Computer Science (soon)
 - ⚒️ Computer Repair Technician
