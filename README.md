@@ -1,8 +1,9 @@
-<h1 align="center"> Hey 😋 </h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+code+pro&size=25&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=435&lines=I'm+Juan+Lara;I'm+a+mathematician;I'm+a+computer+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=45&color=F7DE15&center=true&vCenter=true&width=435&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=I'm+Juan+Lara;I'm+a+mathematician;I'm+a+computer+science)](https://git.io/typing-svg)
 
 <!--
+
+<h1 align="center"> Hey 😋 </h1>
+
 **JuanLara18/JuanLara18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
