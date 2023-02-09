@@ -27,8 +27,8 @@ My name is Juan David Lara. I am a mathematician and computer science student at
 
 - 🎓 BSc in Mathematics | BSc in Computer Science (soon)
 - ⚒️ Computer Repair Technician
+- 🌱 Currently working as a RA at HBS
 - ✨ I am passionate about teaching and programming
-- 🌱 I’m currently working in economics
 </p>
 
 
