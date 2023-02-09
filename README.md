@@ -55,7 +55,7 @@ My name is Juan David Lara. I am a mathematician and computer science student at
 
   <p align="center">
 <a href="https://www.linkedin.com/in/juandavidlara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/lara.juan.d/?hl=es-la"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/juanlara.io/?hl=es-la"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCk8OV8eN6lbwoJDCdKc42ew"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 </p>
   
