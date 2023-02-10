@@ -35,14 +35,17 @@ My name is Juan David Lara. I am a mathematician and computer science student at
 Hello and welcome!
 
 🎓 Dual Degree Pursuer:
-BSc in Mathematics
-BSc in Computer Science (soon)
+
+- BSc in Mathematics
+- BSc in Computer Science (soon)
 
 ⚒️ Tech-savvy:
-Certified Computer Repair Technician
+
+- Certified Computer Repair Technician
 
 💼 Professional Experience:
-Currently working as a Research Assistant at HBS
+
+- Currently working as a Research Assistant at HBS
 
 💻 Passionate about Technology:
 
