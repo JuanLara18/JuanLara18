@@ -54,7 +54,7 @@ Hello and welcome!
 </details>
 
 <details>
-<summary>💻 Passionate about Technology:</summary>
+<summary>👓 Passionate about Technology:</summary>
 
 - Active participant in educational and outreach initiatives.
 - Continuously expanding knowledge and skills.
