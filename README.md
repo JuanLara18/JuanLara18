@@ -68,6 +68,8 @@ Hello and welcome!
 - Committed to making a positive impact on society through technology.
 </details>
 
+___
+
 <!-- Tech Stack -->  
 <details>
   <summary><b>💻 Tech Stack</b></summary>
