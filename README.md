@@ -36,8 +36,8 @@ Hello and welcome!
 
 🎓 Dual Degree Pursuer:
 
-- BSc in Mathematics
-- BSc in Computer Science (soon)
+- BSc in Mathematics, Universidad Nacional de Colombia
+- BSc in Computer Science, Universidad Nacional de Colombia (soon)
 
 ⚒️ Tech-savvy:
 
