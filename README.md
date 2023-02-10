@@ -34,30 +34,39 @@ My name is Juan David Lara. I am a mathematician and computer science student at
 
 Hello and welcome!
 
-🎓 Dual Degree Pursuer:
+<details open> <summary>🎓 Dual Degree Pursuer:</summary>
+ 
+- BSc in Mathematics, Universidad Nacional de Colombia.
+  
+- BSc in Computer Science, Universidad Nacional de Colombia (soon).
+</details>
+ 
+<details>
+ <summary>⚒️ Tech-savvy:</summary>
 
-- BSc in Mathematics, Universidad Nacional de Colombia
-- BSc in Computer Science, Universidad Nacional de Colombia (soon)
+- Certified Computer Repair Technician.
 
-⚒️ Tech-savvy:
+</details>
+  
+<details>  <summary>💼 Professional Experience:</summary>
+  
+- Currently working as a Research Assistant at HBS.
+</details>
 
-- Certified Computer Repair Technician
+<details>
+<summary>💻 Passionate about Technology:</summary>
 
-💼 Professional Experience:
+- Active participant in educational and outreach initiatives.
+- Continuously expanding knowledge and skills.
+- Seeking real-world application opportunities.
+</details>
 
-- Currently working as a Research Assistant at HBS
+<details>
+<summary>🔥 Driven to Succeed:</summary>
 
-💻 Passionate about Technology:
-
-- Active participant in educational and outreach initiatives
-- Continuously expanding knowledge and skills
-- Seeking real-world application opportunities
-
-🔥 Driven to Succeed:
-
-- Aspires to become a leader in the field of computer science
-- Committed to making a positive impact on society through technology
-
+- Aspires to become a leader in the field of computer science.
+- Committed to making a positive impact on society through technology.
+</details>
 
 <!-- Tech Stack -->  
 <details>
