@@ -34,7 +34,7 @@ My name is Juan David Lara. I am a mathematician and computer science student at
 
 Hello and welcome!
 
-<details open> <summary>🎓 Dual Degree Pursuer:</summary>
+<details open> <summary>🎓 Dual Degree:</summary>
  
 - BSc in Mathematics, Universidad Nacional de Colombia.
   
