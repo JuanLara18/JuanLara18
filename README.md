@@ -1,35 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=50&duration=4000&pause=500&color=F7DE15&center=true&vCenter=true&width=900&height=80&lines=I'm+a+mathematician;I'm+a+computer+scientist)](https://git.io/typing-svg)
 
-<!--
-
-<h1 align="center"> Hey 😋 </h1>
-
-**JuanLara18/JuanLara18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<p>
-My name is Juan David Lara. I am a mathematician and computer science student at Universidad Nacional de Colombia.
-
-- 🎓 BSc in Mathematics | BSc in Computer Science (soon)
-- ⚒️ Computer Repair Technician
-- 🌱 Currently working as a RA at HBS
-- ✨ I am passionate about teaching and programming
-</p>
-
--->
-
 <!--About Section-->
 
 Hello and welcome!
@@ -86,7 +56,38 @@ ___
   </p>
 </details>
 
-  
+<!-- Some works in tech -->
+<details>
+  <summary><b>💻 Some works in tech</b></summary>
+    <p align="center">
+
+| **Project** | **Description** |
+| - | - |
+| [TextInsight](https://textinsight-ipsos.streamlit.app/) | An interactive text analysis tool built with Streamlit. |
+| [MadameX](https://juanlara18.github.io/MadameX/) | A web-based game developed using JavaScript. |
+| [BrickBreaker](https://juanlara18.github.io/BrickBreaker/) | A classic brick breaker game implemented in JavaScript. |
+| [Tetris](https://juanlara18.github.io/Tetris/) | A web version of the popular Tetris game created using JavaScript. |
+| [Atlantida](https://juanlara18.github.io/Atlantida-Web-Page/index.html) | A website for the Atlantida project. |
+
+  </p>
+</details>
+
+<!-- Some works in Maths -->
+<details>
+  <summary><b>📊 Some works in Maths</b></summary>
+    <p align="center">
+    <!-- Add your mathematics projects here -->
+    </p>
+</details>
+
+<!-- Some works in Economy -->
+<details>
+  <summary><b>💼 Some works in Economy</b></summary>
+    <p align="center">
+    <!-- Add your economics projects here -->
+    </p>
+</details>
+
 <!-- Contact -->
 <details>
   <summary><b>💬 Contact Info</b></summary>
@@ -98,6 +99,5 @@ ___
 </p>
   
 </details>
-
 
 ![](https://komarev.com/ghpvc/?username=JuanLara18) ![](https://img.shields.io/github/followers/JuanLara18.svg?style=social&label=Follow)
