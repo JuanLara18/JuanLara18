@@ -52,7 +52,7 @@ ___
 
 <!-- Tech Stack -->  
 <details>
-## 🛠️ Tech Stack
+<summary> 🛠️ Tech Stack </summary>summary>
 <p align="center">
 
 | **Category** | **Technologies** |
