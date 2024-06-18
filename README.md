@@ -51,6 +51,7 @@
 ___
 
 <!-- Tech Stack -->  
+<details>
 ## 🛠️ Tech Stack
 <p align="center">
 
@@ -64,7 +65,7 @@ ___
 | **Cloud Services** | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | **Miscellaneous** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
-
+</details>
 </p>
 
 <details>
