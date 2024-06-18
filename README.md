@@ -25,6 +25,8 @@
 <summary>💼 Professional Experience</summary>
     <ul>
         <li>Research Assistant at Harvard Business School (HBS), collaborating on economic research projects and developing mathematical models related to corporate strategy and organizational economics.</li>
+        <li>Data Scientist at Ipsos, leading data analysis projects, developing machine learning models, and designing interactive applications for data visualization.</li>
+        <li>Private Tutor for university-level courses in mathematics, physics, and statistics, providing personalized instruction and support to help students succeed academically.</li>
     </ul>
 </details>
 
@@ -32,15 +34,17 @@
 <summary>🎓 Dual Degree</summary>
     <ul>
         <li>BSc in Mathematics, Universidad Nacional de Colombia.</li>
-        <li>BSc in Computer Science, Universidad Nacional de Colombia (soon).</li>
+        <li>BSc in Computer Science, Universidad Nacional de Colombia.</li>
     </ul>
 </details>
 
 <details>
-<summary>💅 Outside of Tech</summary>
+<summary>🏞️ Outside of Tech</summary>
     <ul>
-        <li>Enjoy playing the guitar and participating in ultimate frisbee.</li>
-        <li>Passionate about nature and outdoor activities.</li>
+        <li>Enjoy hiking and exploring nature.</li>
+        <li>Passionate about playing the guitar.</li>
+        <li>Participate in ultimate frisbee.</li>
+        <li>Engage in calisthenics and other physical activities.</li>
     </ul>
 </details>
 
@@ -77,10 +81,20 @@ ___
 | [Atlantida](https://juanlara18.github.io/Atlantida-Web-Page/index.html) | A website for the Atlantida project. |
 
 ### 📊 Some works in Maths
-<!-- Add your mathematics projects here -->
+<ul>
+    <li><a href="https://github.com/JuanLara18/Project1">Project Title 1</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/JuanLara18/Project2">Project Title 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/JuanLara18/Project3">Project Title 3</a> - Brief description of the project.</li>
+    <li>For more detailed information, please see my <a href="link_to_pdf">Mathematics Projects PDF</a>.</li>
+</ul>
 
 ### 💼 Some works in Economy
-<!-- Add your economics projects here -->
+<ul>
+    <li><a href="https://github.com/JuanLara18/Project1">Project Title 1</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/JuanLara18/Project2">Project Title 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/JuanLara18/Project3">Project Title 3</a> - Brief description of the project.</li>
+    <li>For more detailed information, please see my <a href="link_to_pdf">Mathematics Projects PDF</a>.</li>
+</ul>
 
 </details>
 
