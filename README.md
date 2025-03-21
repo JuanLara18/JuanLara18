@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate mathematician and computer scientist with a strong focus on data science, AI, and their applications in business strategy and organizational economics. Currently working as a Data Scientist at Ipsos and collaborating on research projects with Harvard Business School.
+I'm a mathematician and computer scientist with expertise in data science, AI, and machine learning. Currently working as a Research Assistant at Harvard Business School, where I merge theoretical rigor with computational solutions to study organizational economics.
 
 <details>
 <summary>🔍 More about me</summary>
 
-- 🔭 I'm currently working on advanced machine learning models and data pipelines at Ipsos
-- 🌱 I'm continuously learning about Large Language Models (LLM) and Natural Language Processing (NLP)
-- 👯 I'm looking to collaborate on innovative AI and data science projects
+- 🔭 I'm currently working on advanced research in organizational economics at Harvard Business School
+- 🌱 I'm continuously learning about AI agents and multi-agent systems
+- 👯 I'm looking to collaborate on innovative AI and machine learning projects
 - 🎓 Dual degree holder: BSc in Mathematics and BSc in Computer Science from Universidad Nacional de Colombia
 - 💼 Experience in both industry (Ipsos) and academia (Harvard Business School)
 - 🌟 Awarded the "Total Ops Star Employee - LATAM" at Ipsos in 2024
@@ -34,68 +34,63 @@ I'm a passionate mathematician and computer scientist with a strong focus on dat
 
 | Category | Technologies |
 |----------|--------------|
-| Programming Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| Programming Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | Data Science & ML | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-| Cloud & DevOps | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) |
-| Other Tools | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white) |
+| AI & NLP | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-65C891?style=for-the-badge) ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-0078D7?style=for-the-badge) |
+| Web Development | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-blue?style=for-the-badge&logo=r&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| DevOps & Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| Data Visualization | ![NetworkX](https://img.shields.io/badge/NetworkX-blue?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) |
 
 </details>
 
 ## 🚀 Featured Projects
 
-### 🧠 AI and Machine Learning
-
 <details>
-<summary><strong>NeuroSync: Advanced Brain-Computer Interface</strong></summary>
+<summary><strong>TextInsight - Advanced NLP Library</strong></summary>
 
-A cutting-edge project combining EEG signal processing and deep learning to create a non-invasive brain-computer interface. This system allows users to control digital devices using thought patterns, with potential applications in assistive technology and human-computer interaction.
+A multilingual text analysis library combining BERT for sentiment analysis, GPT-3.5 for text correction and topic generation, and embeddings for graph visualization. Features include batch processing for large datasets, flexible API, and interactive visualizations. Deployed at Ipsos to analyze survey data, cutting analysis time by 60% while delivering deeper insights.
 
-**Tech Stack:** Python, TensorFlow, Scikit-learn, Signal Processing Libraries
-**[View Project](https://github.com/JuanLara18/NeuroSync)** (placeholder link)
-
+**Tech Stack:** Python, Transformers, OpenAI, NetworkX, PyVis
+**Status:** Private Repository
 </details>
 
 <details>
-<summary><strong>EcoPredict: AI-Powered Environmental Forecasting</strong></summary>
+<summary><strong>Cunservicios Platform</strong></summary>
 
-An innovative system that uses machine learning and satellite imagery to predict environmental changes and natural disasters. This project aims to provide early warnings for events like forest fires, floods, and droughts, contributing to better disaster preparedness and environmental conservation efforts.
+A web platform for water and sewage utility services management with a modern microservices architecture. The system features user-facing modules for bill consultation and payment, service requests, PQR management, and administrative tools. Implemented responsive design, form validation, API integration, and database modeling using industry best practices.
 
-**Tech Stack:** Python, PyTorch, Earth Engine API, GCP
-**[View Project](https://github.com/JuanLara18/EcoPredict)** (placeholder link)
-
-</details>
-
-### 💼 Business and Economics
-
-<details>
-<summary><strong>StrategyAI: Game Theory Simulator for Corporate Decision-Making</strong></summary>
-
-A sophisticated simulation platform that applies game theory principles to model and analyze complex corporate strategies. This tool helps businesses make data-driven decisions by simulating market dynamics, competitor behaviors, and optimal pricing strategies.
-
-**Tech Stack:** Python, Julia, React, D3.js
-**[View Project](https://github.com/JuanLara18/StrategyAI)** (placeholder link)
-
+**Tech Stack:** React, FastAPI, SQLAlchemy, Tailwind CSS, JWT, Formik
+**[View Project](https://github.com/JuanLara18/Cunservicios)**
 </details>
 
 <details>
-<summary><strong>OrgOptimizer: AI-Driven Organizational Structure Analysis</strong></summary>
+<summary><strong>File-Translator</strong></summary>
 
-An advanced tool that uses machine learning and network analysis to optimize organizational structures. By analyzing communication patterns, workflow efficiency, and team dynamics, OrgOptimizer provides actionable insights for improving company productivity and employee satisfaction.
+A Python script for translating Excel columns from German to English using OpenAI's GPT API, optimized for technical and machine error descriptions.
 
-**Tech Stack:** Python, NetworkX, Scikit-learn, Dash
-**[View Project](https://github.com/JuanLara18/OrgOptimizer)** (placeholder link)
-
+**Tech Stack:** Python, OpenAI API, pandas
+**[View Project](https://github.com/JuanLara18/File-Translator)**
 </details>
 
-### 🎮 Web Development and Games
+<details>
+<summary><strong>AI-Roadmap</strong></summary>
 
-- [MadameX](https://juanlara18.github.io/MadameX/): A web-based game developed using JavaScript
-- [BrickBreaker](https://juanlara18.github.io/BrickBreaker/): A classic brick breaker game implemented in JavaScript
-- [Tetris](https://juanlara18.github.io/Tetris/): A web version of the popular Tetris game created using JavaScript
-- [Atlantida](https://juanlara18.github.io/Atlantida-Web-Page/index.html): A website for the Atlantida project
+A structured, project-based roadmap for learning Machine Learning & AI through hands-on projects. Each project builds on the previous one, helping you move from beginner to advanced AI concepts.
 
-## 📈 GitHub Stats
+**Tech Stack:** Python, Various ML libraries
+**[View Project](https://github.com/JuanLara18/AI-Roadmap)**
+</details>
+
+<details>
+<summary><strong>Pyvizard</strong></summary>
+
+A Python visualization toolkit for data science and analytics workflows.
+
+**Tech Stack:** Python
+**[View Project](https://github.com/JuanLara18/Pyvizard)**
+</details>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -107,17 +102,24 @@ An advanced tool that uses machine learning and network analysis to optimize org
 
 ## 🏆 Achievements
 
-- 🏅 Best Averages Scholarship (10 semesters) - Universidad Nacional de Colombia (2018-2023)
 - 🌟 Total Ops Star Employee - LATAM, Ipsos (April 2024)
+- 🏅 Best Averages Scholarship (10 semesters) - Universidad Nacional de Colombia (2018-2023)
 - 🎓 Dual Degree: B.S. in Computer Science and B.S. in Mathematics - Universidad Nacional de Colombia (2023)
-- 💼 Research Assistant at Harvard University, collaborating with Professor Jorge Tamayo (2022-Present)
+- 💼 Research Assistant at Harvard Business School, collaborating with Professor Jorge Tamayo (2022-Present)
+
+## 📚 Recent Training & Certifications
+
+- AI Agents Fundamentals - Hugging Face (February 2025)
+- Artificial Intelligence Expert Certificate (CAIEC) - Certiprof (November 2024)
+- Artificial Intelligence Bootcamp - Talento Tech Cymetria (May-October 2024)
+- DevOps Certification - Platzi (October 2024)
 
 ## 📫 Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlara@unal.edu.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandavidlara/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larajuand@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julara/?locale=en_US&profileId=ACoAACIpjk4BS78qvk7wafpNlgUjRQPCRBMrjdM)
 
 ---
 
