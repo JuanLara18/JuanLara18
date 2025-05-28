@@ -1,47 +1,59 @@
-name: Update badge of total clones
+name: "Update Total Clones Badge"
 
+# Trigger daily at midnight UTC and manually via workflow_dispatch
 on:
   schedule:
-    - cron: '0 0 * * *'    # cada día a medianoche UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   aggregate-clones:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Listar repos del usuario
+    steps:
+      # 1. Checkout the repository so we can create/update files
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. List all repositories for the authenticated user
+      - name: List user repositories
         id: list
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            // Fetch all repos for the current user
             const repos = await github.paginate(
-              github.rest.repos.listForUser, 
+              github.rest.repos.listForUser,
               { username: context.repo.owner, per_page: 100 }
             );
-            return repos.map(r => r.name);
-      
-      - name: Obtener y sumar clones
+            // Return JSON string of repo names
+            return JSON.stringify(repos.map(r => r.name));
+
+      # 3. Fetch clone stats for each repo and sum the counts
+      - name: Aggregate clone counts
         id: sum
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            let total = 0;
-            for (const repo of ${{ steps.list.outputs.result }}) {
-              const stats = await github.rest.repos.getClonesStats({
+            // Parse the list of repo names from the previous step
+            const repoNames = JSON.parse('${{ steps.list.outputs.result }}');
+            let totalClones = 0;
+            for (const repo of repoNames) {
+              // Get clone traffic for the last 14 days ('day')
+              const { data } = await github.rest.repos.getClones({
                 owner: context.repo.owner,
                 repo,
                 per: 'day'
               });
-              // stats.data.clones es un array de { timestamp, count, uniques }
-              total += stats.data.clones.reduce((s, d) => s + d.count, 0);
+              // Sum daily clone counts
+              totalClones += data.clones.reduce((sum, entry) => sum + entry.count, 0);
             }
-            return total;
+            return totalClones;
 
-      - name: Crear JSON para Shields
+      # 4. Write the JSON endpoint for Shields.io
+      - name: Generate Shields endpoint JSON
         run: |
           mkdir -p badges
           cat <<EOF > badges/total-clones.json
@@ -53,10 +65,12 @@ jobs:
           }
           EOF
 
-      - name: Commit y push
+      # 5. Commit and push only if the JSON changed
+      - name: Commit and push badge
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add badges/total-clones.json
-          git diff --quiet || git commit -m "Total clones: ${{ steps.sum.outputs.result }}"
+          # Only commit if there are changes
+          git diff --quiet || git commit -m "chore: update total clones to ${{ steps.sum.outputs.result }}"
           git push
