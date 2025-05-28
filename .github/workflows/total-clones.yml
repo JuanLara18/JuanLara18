@@ -1,0 +1,62 @@
+name: Update badge of total clones
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # cada día a medianoche UTC
+  workflow_dispatch:
+
+jobs:
+  aggregate-clones:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Listar repos del usuario
+        id: list
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const repos = await github.paginate(
+              github.rest.repos.listForUser, 
+              { username: context.repo.owner, per_page: 100 }
+            );
+            return repos.map(r => r.name);
+      
+      - name: Obtener y sumar clones
+        id: sum
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            let total = 0;
+            for (const repo of ${{ steps.list.outputs.result }}) {
+              const stats = await github.rest.repos.getClonesStats({
+                owner: context.repo.owner,
+                repo,
+                per: 'day'
+              });
+              // stats.data.clones es un array de { timestamp, count, uniques }
+              total += stats.data.clones.reduce((s, d) => s + d.count, 0);
+            }
+            return total;
+
+      - name: Crear JSON para Shields
+        run: |
+          mkdir -p badges
+          cat <<EOF > badges/total-clones.json
+          {
+            "schemaVersion": 1,
+            "label": "total clones",
+            "message": "${{ steps.sum.outputs.result }}",
+            "color": "blue"
+          }
+          EOF
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add badges/total-clones.json
+          git diff --quiet || git commit -m "Total clones: ${{ steps.sum.outputs.result }}"
+          git push
