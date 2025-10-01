@@ -1,90 +1,90 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Juan+Lara;LLM%2FML+Specialist;GenomAI+%7C+Healthcare+AI;Building+Production-Ready+AI)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Juan+Lara;ML+Engineer;Building+Production+AI+Systems)](https://git.io/typing-svg)
 
-  <img src="https://raw.githubusercontent.com/JuanLara18/JuanLara18/main/assets/ai-animation.gif" alt="AI Research Animation" height="200"/>
+  <img src="https://raw.githubusercontent.com/JuanLara18/JuanLara18/main/assets/ai-animation.gif" alt="AI Animation" height="200"/>
 </div>
 
 ## 🚀 About Me
 
-I'm an **LLM/ML Specialist** at **GenomAI** building AI-powered clinical decision support systems. With 3+ years developing production-ready generative AI solutions, I specialize in RAG architectures, LLM fine-tuning, and scalable AI systems for healthcare applications.
+**ML Engineer** with 3+ years building production-ready AI systems across healthcare and enterprise domains. Currently **LLM/ML Specialist at GenomAI**, developing HIPAA-compliant clinical decision support systems with RAG architectures, fine-tuned LLMs, and scalable deployment pipelines.
 
-My expertise spans **large language models**, **vector databases**, **HIPAA-compliant AI systems**, and **cloud deployment**. I focus on transforming complex AI requirements into production-ready solutions that deliver real-world impact.
+I specialize in taking AI from concept to production—architecting end-to-end ML infrastructure, optimizing inference pipelines, and delivering systems that drive measurable business impact. My background combines rigorous **Computer Science & Mathematics foundation** (dual degree, 4.7/5.0) with hands-on expertise in cloud deployment and MLOps.
 
-**🎯 Professional Highlights:**
-- **LLM/ML Specialist** at GenomAI developing healthcare AI systems
-- **Former Research Associate** at Harvard University (ML & organizational modeling)
-- **Dual degree** in Computer Science & Mathematics (4.7/5.0 GPA)
+**Recent highlights:**
+- 🏥 Building AI-powered clinical systems at **GenomAI** with FastAPI microservices and Docker/CI/CD
+- 🎓 **Former Research Associate** at **Harvard University** (3 years, ML pipelines & organizational modeling)
+- 🏆 **LATAM-wide recognition** at Ipsos for developing TextInsight (NLP automation library)
 
-<details>
-<summary>🔍 <b>What I'm working on</b></summary>
-<br>
+---
 
-- 🏥 **Healthcare AI**: Building HIPAA-compliant clinical decision support systems with RAG pipelines  
-- 🤖 **LLM Engineering**: Fine-tuning models with PEFT methods (LoRA, QLoRA) for domain-specific applications
-- ☁️ **Production AI**: Deploying scalable inference pipelines on cloud infrastructure with sub-second response times
-- 🔬 **Research**: AI safety, model evaluation, and explainable AI systems
-
-</details>
-
-## 🛠️ Core Expertise
+## 🛠️ Tech Stack
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br>Python
       </td>
-      <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
         <br>PyTorch
       </td>
-      <td align="center">
-        <img width="50" src="https://huggingface.co/front/assets/huggingface_logo.svg"/>
+      <td align="center" width="96">
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" />
         <br>HuggingFace
       </td>
-      <td align="center">
-        <img width="50" src="https://python.langchain.com/img/brand/wordmark.png"/>
+      <td align="center" width="96">
+        <img src="https://python.langchain.com/img/brand/wordmark.png" width="48" height="48" alt="LangChain" />
         <br>LangChain
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-        <br>Google Cloud
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
+        <br>GCP
       </td>
-      <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-        <br>Docker
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
       </td>
-      <td align="center">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
         <br>Kubernetes
       </td>
-      <td align="center">
-        <img width="50" src="https://streamlit.io/images/brand/streamlit-mark-color.png"/>
-        <br>Streamlit
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
       </td>
     </tr>
   </table>
 </div>
 
 <details>
-<summary>📊 <b>Full Tech Stack</b></summary>
+<summary>📊 <b>Full Technology Stack</b></summary>
 <br>
 
-| **Category**                     | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **LLM & RAG Systems**            | ![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-FF6B35?style=for-the-badge) ![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge) |
-| **ML Frameworks & PEFT**         | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white) ![LoRA](https://img.shields.io/badge/LoRA-FF6B35?style=for-the-badge) ![QLoRA](https://img.shields.io/badge/QLoRA-FF6B35?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| **NLP & Text Processing**        | ![Transformers](https://img.shields.io/badge/Transformers-FF9A00?style=for-the-badge) ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge) ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge) ![NetworkX](https://img.shields.io/badge/NetworkX-FF6B35?style=for-the-badge) |
-| **Programming Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Cloud & MLOps**               | ![Google Cloud](https://img.shields.io/badge/GCP_Vertex-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
-| **Data & Analytics**            | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **API & Web Development**       | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **DevOps & Automation**         | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **LLM & RAG** | ![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA-FF6B35?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square) |
+| **ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=flat-square&logo=huggingface&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Fine-tuning** | ![LoRA](https://img.shields.io/badge/LoRA-FF6B35?style=flat-square) ![QLoRA](https://img.shields.io/badge/QLoRA-FF6B35?style=flat-square) ![PEFT](https://img.shields.io/badge/PEFT-FF9A00?style=flat-square) |
+| **Cloud & MLOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square) |
+| **Data Engineering** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **APIs & Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+
 </details>
+
+---
 
 ## 📈 GitHub Activity
 
@@ -99,14 +99,9 @@ My expertise spans **large language models**, **vector databases**, **HIPAA-comp
   <img src="https://leetcard.jacoblin.cool/JuanLara18?theme=dark" alt="LeetCode Stats" height="180"/>
 </div>
 
-## 🔬 Research Focus
+---
 
-- **Continual Learning & Lifelong AI**: Methods for streaming data without catastrophic forgetting
-- **Explainable AI (XAI)**: Interpretable models and post-hoc explanation techniques
-- **AI Safety & Evaluation**: Bias detection and safety monitoring for production systems
-- **Healthcare AI**: HIPAA-compliant generative AI for clinical applications
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julara/?locale=en_US">
@@ -124,5 +119,5 @@ My expertise spans **large language models**, **vector databases**, **HIPAA-comp
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanLara18&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/JuanLara18?style=for-the-badge" alt="GitHub User's stars"/>
+  <img src="https://img.shields.io/github/stars/JuanLara18?style=for-the-badge" alt="GitHub Stars"/>
 </div>
