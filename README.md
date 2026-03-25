@@ -52,31 +52,6 @@ flowchart LR
 
 I am especially interested in projects where AI has to be both technically strong and operationally useful: document understanding, retrieval over complex knowledge, evaluation of LLM systems, human-in-the-loop workflows, and the infrastructure that makes them dependable.
 
-## Selected Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong><a href="https://github.com/JuanLara18/Meeting-Scribe">Meeting-Scribe</a></strong><br />
-      End-to-end meeting transcription with speaker diarization using Whisper and pyannote-audio.
-    </td>
-    <td width="50%">
-      <strong><a href="https://github.com/JuanLara18/Distributed-Translation-System">Distributed-Translation-System</a></strong><br />
-      Distributed translation workflows for large multilingual datasets with PySpark and OpenAI.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong><a href="https://github.com/JuanLara18/Text-Classification-System">Text-Classification-System</a></strong><br />
-      Modular pipeline for text clustering, classification, and evaluation in production-oriented NLP settings.
-    </td>
-    <td width="50%">
-      <strong><a href="https://juanlara18.github.io/Portfolio">Portfolio & Blog</a></strong><br />
-      Personal site and technical writing space for mathematical and AI topics.
-    </td>
-  </tr>
-</table>
-
 <details>
 <summary><strong>Background</strong></summary>
 
