@@ -1,68 +1,88 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JuanLara18/Portfolio/main/front/public/logo512.png" width="84" alt="Juan Lara logo" />
 
-# Juan Lara
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/banner-night.svg" />
+  <img src="assets/brand/banner-day.svg" alt="Juan Lara. Frontier AI. Engineered for production. AI Engineer, Production AI, Knowledge Systems." />
+</picture>
 
-**Computer Scientist, Mathematician, and AI Builder**
+[Portfolio](https://juanlara18.github.io/portfolio/) · [Blog](https://juanlara18.github.io/portfolio/blog) · [LinkedIn](https://www.linkedin.com/in/julara/) · [Email](mailto:larajuand@outlook.com)
 
-[Portfolio](https://juanlara18.github.io/Portfolio) · [LinkedIn](https://www.linkedin.com/in/julara/) · [Email](mailto:larajuand@outlook.com)
+<img src="https://komarev.com/ghpvc/?username=JuanLara18&label=profile%20views&color=0e7490&style=flat-square&abbreviated=true" alt="Profile views" />
+<a href="https://github.com/JuanLara18?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/JuanLara18?style=flat-square&label=stars&color=0e7490" alt="GitHub stars" /></a>
+<a href="https://github.com/JuanLara18?tab=followers"><img src="https://img.shields.io/github/followers/JuanLara18?style=flat-square&label=followers&color=0e7490" alt="Followers" /></a>
+<a href="https://juanlara18.github.io/portfolio/blog"><img src="https://img.shields.io/badge/blog-180%2B%20posts-0e7490?style=flat-square" alt="Blog: 180+ posts" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=JuanLara18&style=flat-square&color=0f172a" alt="Profile views" />
-<img src="https://img.shields.io/badge/Focus-Applied%20AI-0f172a?style=flat-square" alt="Focus" />
-<img src="https://img.shields.io/badge/M.S.%20in%20AI-In%20Progress-334155?style=flat-square" alt="M.S. in AI" />
 </div>
 
 ---
 
-I enjoy building AI systems that are useful, reliable, and grounded in real problems. My work sits at the intersection of research, engineering, and product, spanning retrieval pipelines, document intelligence, production ML, evaluation, and cloud-native deployment.
+AI Engineer building production AI since 2022. Banking, retail logistics, healthcare AI, academic research. Currently at **Davivienda**. Previously **Falabella**, **GenomAI**, **Harvard**.
 
-I enjoy collaborating with people who want to turn good ideas into real systems, especially in applied AI, knowledge systems, NLP, and data-intensive products.
+My focus is what production demands that papers omit. Scale. Governance. Evaluation.
 
-## What Defines Me
+## Now
 
-| Dimension | Snapshot |
-|---|---|
-| **Foundation** | Computer Science + Mathematics at Universidad Nacional de Colombia, with a `4.7/5.0` GPA |
-| **Approach** | I like taking ideas from papers and prototypes to production-ready systems |
-| **Range** | I have worked across research, healthcare, retail, market research, and financial knowledge systems |
-| **Current growth** | I am pursuing an **M.S. in Artificial Intelligence** at Universidad de los Andes |
+- **Davivienda.** Knowledge Data Engineer in the AI First program. I lead the knowledge-base cell: the semantic layer that grounds the bank's AI agents in verifiable, traceable business context.
+- **Universidad de los Andes.** M.Sc. in Artificial Intelligence, through 2027.
+- **Writing.** The knowledge layer for agents. Ontologies, semantic models, data contracts.
 
-## What I Work On
+<sub>Updated November 2026.</sub>
 
-I like building systems that move from ideas to real impact.
+## Selected work
 
-```mermaid
-flowchart LR
-    A[Mathematics and Research] --> B[Models and Evaluation]
-    B --> C[Systems and Infrastructure]
-    C --> D[Production AI Products]
-    D --> E[Useful Real-World Outcomes]
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JuanLara18/classifai"><strong>classifai</strong></a><br />
+      Classify any text dataset from one config file. OpenAI, Anthropic or Ollama, with structured outputs, clustering and HTML reports.<br />
+      <sub>Python · Pydantic · UMAP · HDBSCAN</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JuanLara18/voxscribe"><strong>voxscribe</strong></a><br />
+      Local transcription and speaker diarization for any audio or video. One CLI, no data leaves the machine.<br />
+      <sub>faster-whisper · pyannote · WhisperX · Ollama</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JuanLara18/awesome-ai-roadmap"><strong>awesome-ai-roadmap</strong></a><br />
+      An open roadmap from ML foundations to LLMs, agents and production systems. Curated resources, project ideas, visual paths.<br />
+      <sub>Curated · Open source</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JuanLara18/bank-agent-llm"><strong>bank-agent-llm</strong></a><br />
+      Parse bank statements, categorize transactions, explore them in the terminal or a dashboard. Fully offline.<br />
+      <sub>Python · Ollama · SQLite · Streamlit</sub>
+    </td>
+  </tr>
+</table>
 
-| Area | What it means in practice |
-|---|---|
-| **Knowledge Systems** | Retrieval, ranking, grounding, and structure over complex information |
-| **AI Products** | Combining models, software engineering, and good judgment under real constraints |
-| **Machine Learning** | Prediction, NLP, deep learning, decision-oriented systems, and practical evaluation |
-| **Learning Systems** | Reinforcement learning, multi-agent reasoning, and research-driven experimentation |
-| **Open Source** | Model implementation, practical tooling, and agent ecosystems such as **OpenClaw** |
-| **Cloud-Native AI** | Observable, testable pipelines built to evolve rather than break |
+## Writing
 
-## What I'm Interested In
-
-I am especially interested in projects where AI has to be both technically strong and operationally useful: document understanding, retrieval over complex knowledge, evaluation of LLM systems, human-in-the-loop workflows, and the infrastructure that makes them dependable.
+180+ engineering notes on production AI. Start with a series: [RAG: From Paper to Production](https://juanlara18.github.io/portfolio/blog/research/rag-retrieval-augmented-generation) · [Agentic AI Engineering](https://juanlara18.github.io/portfolio/blog/field-notes/foundations-of-agentic-ai-llms-to-agents) · [The Knowledge Stack](https://juanlara18.github.io/portfolio/blog/field-notes/data-silos-breaking-information-barriers).
 
 <details>
 <summary><strong>Background</strong></summary>
+<br />
 
-Over the last few years, I have worked on a wide range of AI problems: predictive systems, NLP pipelines, computer vision, deep learning models, retrieval and document intelligence, reinforcement learning experiments, multi-agent environments, and production ML infrastructure. I have contributed across research settings, enterprise contexts, healthcare applications, retail operations, and open-source projects.
+| Period | Role | |
+|---|---|---|
+| 2026 to now | Knowledge Data Engineer · AI First | Davivienda |
+| 2025 to 2026 | AI Engineer | Falabella |
+| 2025 | LLM/ML Specialist | GenomAI |
+| 2022 to 2025 | Research Associate · ML Specialist | Harvard University |
+| 2024 to 2025 | Data Scientist | Ipsos |
 
-That range matters to me because I do not see AI as a narrow specialty, but as a broad engineering and scientific field where modeling, systems thinking, and implementation all matter. I am most energized by problems that require both technical depth and the willingness to build something real.
+Computer Science + Mathematics dual degree, Universidad Nacional de Colombia, 4.7/5.0.
 
 </details>
 
 ---
 
 <div align="center">
-  <sub>juanlara18.github.io/Portfolio</sub>
+
+Open to talks, technical engagements, and collaborations on production AI systems.
+
+<sub><a href="mailto:larajuand@outlook.com">larajuand@outlook.com</a></sub>
+
 </div>
